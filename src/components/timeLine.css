@@ -17,28 +17,8 @@
 	color: #4f4f4f;
 }
 
-.come-back {
-	float: left;
-	margin-top: 10px;
-	margin-left: 100px;
-	border: none;
-	background: none;
-	color: #035ec7;
-	font-size: 1em;
-	padding: 5px 10px 5px 10px;
-	border-radius: 5px;
-	cursor: pointer;
-	text-decoration: underline;
-}
-
 .vertical-timeline-element {
 	margin: 15px 0 !important;
-}
-
-.come-back:hover {
-	background: #035ec7;
-	color: #fff;
-	text-decoration: none;
 }
 
 .header-text {
